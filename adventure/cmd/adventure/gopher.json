@@ -1,0 +1,16 @@
+{"intro":{
+  "title": "Beginning",
+  "paragraphs": ["At the biginning there was a word", "...and the word was life..."],
+  "options": [{"text": "next", "chapter": "second"},{"text": "even further", "chapter": "third"}]
+},
+"second":{
+  "title": "Wooow",
+  "paragraphs": ["Word was a light for men", "I came to bring you life..."],
+  "options": [{"text": "back", "chapter": "intro"},{"text": "next", "chapter": "third"}]
+},
+"third":{
+  "title": "Look",
+  "paragraphs": ["Life to the fullest", "John 10:10"],
+  "options": [{"text": "back", "chapter": "second"},{"text": "refresh", "chapter": ""}]
+  }
+}

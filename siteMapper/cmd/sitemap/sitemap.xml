@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlSet xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url address="https://gophercises.com/demos/cyoa/home">
+    <loc>https://gophercises.com</loc>
+  </url>
+  <url address="https://gophercises.com/demos/cyoa/debate">
+    <loc>https://gophercises.com/demos/cyoa/sean-kelly</loc>
+    <loc>https://gophercises.com/demos/cyoa/mark-bates</loc>
+    <loc>https://gophercises.com/demos/cyoa/home</loc>
+    <loc>https://gophercises.com</loc>
+  </url>
+  <url address="https://gophercises.com">
+    <loc>https://gophercises.com/</loc>
+    <loc>https://gophercises.com/demos/cyoa/</loc>
+  </url>
+  <url address="https://gophercises.com/">
+    <loc>https://gophercises.com/</loc>
+    <loc>https://gophercises.com/demos/cyoa/</loc>
+  </url>
+  <url address="https://gophercises.com/demos/cyoa/">
+    <loc>https://gophercises.com/demos/cyoa/new-york</loc>
+    <loc>https://gophercises.com/demos/cyoa/denver</loc>
+    <loc>https://gophercises.com</loc>
+    <loc>https://gophercises.com/demos/cyoa/new-york</loc>
+    <loc>https://gophercises.com/demos/cyoa/denver</loc>
+    <loc>https://gophercises.com</loc>
+  </url>
+  <url address="https://gophercises.com/demos/cyoa/denver">
+    <loc>https://gophercises.com/demos/cyoa/home</loc>
+    <loc>https://gophercises.com</loc>
+  </url>
+  <url address="https://gophercises.com/demos/cyoa/new-york">
+    <loc>https://gophercises.com/demos/cyoa/home</loc>
+    <loc>https://gophercises.com/demos/cyoa/debate</loc>
+    <loc>https://gophercises.com</loc>
+    <loc>https://gophercises.com/demos/cyoa/home</loc>
+    <loc>https://gophercises.com/demos/cyoa/debate</loc>
+    <loc>https://gophercises.com</loc>
+  </url>
+</urlSet>
